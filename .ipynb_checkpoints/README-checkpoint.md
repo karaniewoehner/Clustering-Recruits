@@ -6,7 +6,7 @@ The model uses **KNN imputation**, **scaling**, **PCA**, and **K-Means clusterin
 ---
 
 ## Features
-- Upload your **2025 FB Spring Test Numbers** sheet (.csv or .xlsx).
+- Able to upload your own **Test Numbers** sheet (.csv or .xlsx).
 - Select a current player and view the **top similar recruits**.
 - Filter results by position.
 - View predicted **cluster assignment** and distance scores.
